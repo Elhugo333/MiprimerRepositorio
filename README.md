@@ -1,5 +1,7 @@
 # Proyecto: Jornada Tecnológica 2024-2025
 
+![Vista previa de mi web](capturas/Web.png)
+
 ## Descripción del Proyecto
 Este proyecto consiste en una web informativa para una **Jornada Tecnológica** local. El objetivo es presentar el evento de forma atractiva, detallando qué es, cuándo y dónde se celebra.
 
