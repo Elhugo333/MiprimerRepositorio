@@ -18,7 +18,8 @@ La web ha sido diseñada siguiendo una estructura responsive para poder adaptars
 Siguiendo los requisitos de la práctica, se trabajó en una rama secundaria llamada `desarrollo` con los siguientes commits:
 1. **Paso 1**: Estructura base navbar y header.
 2. **Paso 2**: Implementación de secciones Grid y componentes Card para contenido.
-3. **Paso 3**: Finalización de diseño, Footer y organización de la carpeta de capturas.
+3. **Paso 3**: Finalización de diseño, Footer y organización de la carpeta de capturas
+4. **Paso 4 Doc**: Finaliza documentación en README.md
 
 ## Dificultad Técnica
 Una de las mayores dificultades técnicas que tuve fue gestionar el historial de Git para asegurar que los commits fueran correctamente progresivos y significativos según el enunciado. Se solucionó mediante el uso de comandos avanzados de gestión de ramas y organización lógica de las subidas.
